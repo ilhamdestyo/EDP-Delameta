@@ -14,12 +14,12 @@ void loop() {
   Serial.println("HALO SELAMAT DATANG");
   Serial.println("    LCD 20 x 4");
   Serial.println("   TUTORIAL BY");
-  Serial.println("Interactive Robotics");
+  Serial.println("Nomaden Tech ID");
   //Program yang akan dijalankan berulang-ulang
 //  lcd.clear(); //Untuk Menghapus karakter pada LCD
   lcd.setCursor(0,0); lcd.print("HALO SELAMAT DATANG");
   lcd.setCursor(0,1); lcd.print("    LCD 20 x 4");
   lcd.setCursor(0,2); lcd.print("   TUTORIAL BY");
-  lcd.setCursor(0,3); lcd.print("Interactive Robotics");
+  lcd.setCursor(0,3); lcd.print("Nomaden Tech ID");
 //  delay(1000); //Jeda waktu perulagan seama 1000 mili detik
 }
