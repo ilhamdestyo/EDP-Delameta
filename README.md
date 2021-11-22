@@ -7,4 +7,4 @@ It's a learning session in basic understanding programming for a microcontroller
 
 
 ### STM32 BluePill
-![picture alt](https://stm32duinoforum.com/forum/images/thumb/a/ae/Bluepillpinout-gif/wiki_subdomain/700px-Bluepillpinout.gif)
+![picture alt](https://circuitdigest.com/sites/default/files/inlineimages/u/STM32-Pin-Details_0.png)
